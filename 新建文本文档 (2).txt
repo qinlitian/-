@@ -1,0 +1,17 @@
+git remote add origin 远程仓库地址（添加文件到git）
+     远程     添加  源
+git push -u origin master  -u代表记录当前的推送信息
+
+git add .
+git commit -m ''               ''说明书
+git push
+
+
+
+git init                    初始化 项目 到 git
+
+git status 		查看当前状态
+
+git clear		清屏
+
+git clone 远程仓库地址	克隆git项目到本地
